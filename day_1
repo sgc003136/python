@@ -1,0 +1,7 @@
+gender = input("请输入您的性别");
+print("您输入的性别是{0}".format(gender));
+if gender == "man":
+  print("加油撸代码");
+else:
+  print("女孩有人养");
+  
