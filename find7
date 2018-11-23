@@ -1,0 +1,7 @@
+l = range(1,11);
+for i in l:
+  if(i == 7):
+    print(i);
+    break;
+  else:
+    continue;
